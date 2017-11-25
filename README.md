@@ -2,6 +2,8 @@
 
 A version compare tool, which is useful in comparing versions of APPs and JavaScript modules.
 
+一个版本比较工具，在APP、JavaScript模块的等的版本比较中非常有用。
+
 ## 安装
 
 ```bash
