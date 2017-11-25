@@ -1,0 +1,4 @@
+test/karma.config.js
+node_modules/
+build/
+coverage/
